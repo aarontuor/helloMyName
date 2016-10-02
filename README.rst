@@ -14,7 +14,7 @@ Documentation for myNameHello
 
 You will find complete documentation for myNameHello at `the helloMyName readthedocs page`_.
 
-.. the myNameHello readthedocs page: http://myNameHello.readthedocs.io/en/latest/
+.. the helloMyName readthedocs page: http://hellomyname.readthedocs.io/en/latest/
 
 .. |docs| image:: docs/_static/docs.gif
     :alt: Documentation
