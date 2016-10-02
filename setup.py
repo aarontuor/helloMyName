@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='helloMyname',
-      version=0.01,
+      version=0.02,
       description='Python package example',
       url='http://mywebsite',
       author='myname',

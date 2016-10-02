@@ -1,5 +1,5 @@
 =========================================
-Welcome to hello
+Welcome to helloMyName
 =========================================
 
 |docs| |pypi|
@@ -12,19 +12,19 @@ Toy hello world package.
 Documentation for myNameHello
 -----------------------------
 
-You will find complete documentation for myNameHello at `the myNameHello readthedocs page`_.
+You will find complete documentation for myNameHello at `the helloMyName readthedocs page`_.
 
 .. the myNameHello readthedocs page: http://myNameHello.readthedocs.io/en/latest/
 
 .. |docs| image:: docs/_static/docs.gif
     :alt: Documentation
     :scale: 100%
-    :target: http://antk.readthedocs.io/en/latest
+    :target: http://hellomyname.readthedocs.io/en/latest/
 
 .. |pypi| image:: docs/_static/pypi_page.gif
     :alt: pypi page
     :scale: 100%
-    :target: https://pypi.python.org/pypi/myNameHello/
+    :target: https://pypi.python.org/pypi/helloMyname/0.2
 
 
 Platform

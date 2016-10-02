@@ -9,5 +9,5 @@ def hi(some_number, mood='excited', verbose=False):
     """
     print('hello world! I am %s to be a program.' % mood)
     if verbose:
-        print('I am veeeeery %s excited to meet you' % mood)
+        print('I am veeeeery %s to meet you' % mood)
     return some_number
