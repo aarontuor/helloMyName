@@ -26,12 +26,12 @@ Documentation for myNameHello
 Platform
 --------
 
-myNameHello is compatible with linux 64 bit operating systems.
+helloMyName is compatible with linux 64 bit operating systems.
 
 Python Distribution
 -------------------
 
-myNameHello is written in python 2. Most functionality should be forwards compatible.
+helloMyName is written in python 2. Most functionality should be forwards compatible.
 
 Install
 -------
@@ -40,4 +40,4 @@ From the terminal:
 
 .. code-block::
 
-    (venv)$ pip install myNameHello
+    (venv)$ pip install helloMyName
